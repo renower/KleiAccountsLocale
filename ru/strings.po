@@ -147,7 +147,7 @@ msgstr "Создание учетной записи"
 
 #. i18n: keyword: ActivateAccountDescription
 msgid "Your Klei account was successfully created! Please complete the form to activate it and have access to additional features. You can also subscribe to our newsletter to receive information about your favorite game."
-msgstr ""
+msgstr "Ваш аккаунт Klei успешно создан! Пожалуйста, заполните форму, чтобы активировать его и получить доступ к дополнительным функциям. Вы также можете подписаться на нашу новостную рассылку, чтобы получать информацию о вашей любимой игре"
 
 #. i18n: keyword: Birthdate
 msgid "Date of birth"
@@ -243,11 +243,11 @@ msgstr "Войдите в свою учетную запись Klei, чтобы 
 
 #. i18n: keyword: Subscribe
 msgid "Subscribe"
-msgstr ""
+msgstr "Подписаться"
 
 #. i18n: keyword: Subscribing
 msgid "Subscribing..."
-msgstr ""
+msgstr "Подписка..."
 
 #. i18n: keyword: SubscribeContent
 msgid "Get the latest major news and updates for {{.GameName}}. We do not send a lot of email, but when we do we try to make it count! Easily unsubscribe at any time from the bottom of any email we do send. For the latest news you can also follow us on Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> and visit our official <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
@@ -255,7 +255,7 @@ msgstr ""
 
 #. i18n: keyword: SubscribeComplete
 msgid "Subscription is complete"
-msgstr ""
+msgstr "Подписка успешно подключена"
 
 #. i18n: keyword: SubscribeCompleteDescription
 msgid "Your email subscription has been processed. If this is the first time you subscribe to one of our newsletters, you will receive a confirmation email."
@@ -379,7 +379,7 @@ msgstr "Маркетинговые рассылки"
 
 #. i18n: keyword: MarketingOptionsDescription
 msgid "Use these options to configure your newsletter subscription. Remember, you can unsubscribe at any time."
-msgstr ""
+msgstr "Используйте эти параметры для настройки подписки на рассылку новостей. Помните, что вы можете отказаться от подписки в любое время."
 
 #. i18n: keyword: MarketingOptionsUnsubscribe
 msgid "I do not want to receive marketing emails"
@@ -403,7 +403,7 @@ msgstr ""
 
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
-msgstr ""
+msgstr "Этот процесс позволит связать одну учетную запись Klei с несколькими платформами. Это предназначено для тех случаев, когда у вас есть учетные записи на нескольких платформах и вы хотите, чтобы все они были связаны с одной учетной записью Klei."
 
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
